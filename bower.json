@@ -1,0 +1,21 @@
+{
+  "name": "parley",
+  "description": "whatever dude",
+  "main": "index.js",
+  "authors": [
+    "Evolve"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "https://github.com/Alriosa/parleyweb.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
